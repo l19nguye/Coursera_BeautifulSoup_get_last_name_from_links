@@ -1,0 +1,4 @@
+Follow the below instruction to pass the quiz:
+	- open link "http://python-data.dr-chuck.net/known_by_Brianna.html"
+	- click on the 18th item
+	- repeat 7 times, then get the last name.
